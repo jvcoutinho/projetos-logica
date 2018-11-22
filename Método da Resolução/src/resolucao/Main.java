@@ -8,6 +8,13 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Random;
 
+/** Método da Resolução
+ *  Este projeto consiste em resolver instâncias do problema SAT na Forma Normal Conjuntiva,
+ *  pelo Método da Resolução.
+ *
+ * @author João Victor de Sá Ferraz Coutinho (jvsfc@cin.ufpe.br)
+ */
+
 public class Main {
 
     public static void main(String[] args) {
